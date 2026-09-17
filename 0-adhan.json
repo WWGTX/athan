@@ -1,0 +1,612 @@
+[
+  {
+    "id": "adhan_1",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/Azan-Ali-Fani-%D8%B9%D9%84%DB%8C-%D9%81%D8%A7%D9%86%DB%8C-%D8%A7%D8%B0%D8%A7%D9%86.m4a",
+    "name": "Azan-Ali-Fani-علی-فانی-اذان"
+  },
+  {
+    "id": "adhan_2",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-10.mp3",
+    "name": "آخر-10"
+  },
+  {
+    "id": "adhan_3",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-2.mp3",
+    "name": "آخر-2"
+  },
+  {
+    "id": "adhan_4",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-3.mp3",
+    "name": "آخر-3"
+  },
+  {
+    "id": "adhan_5",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-4.mp3",
+    "name": "آخر-4"
+  },
+  {
+    "id": "adhan_6",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-5.mp3",
+    "name": "آخر-5"
+  },
+  {
+    "id": "adhan_7",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-6.mp3",
+    "name": "آخر-6"
+  },
+  {
+    "id": "adhan_8",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-7.mp3",
+    "name": "آخر-7"
+  },
+  {
+    "id": "adhan_9",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-8.mp3",
+    "name": "آخر-8"
+  },
+  {
+    "id": "adhan_10",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1-9.mp3",
+    "name": "آخر-9"
+  },
+  {
+    "id": "adhan_11",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%AE%D8%B1.mp3",
+    "name": "آخر"
+  },
+  {
+    "id": "adhan_12",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%B9.mp3",
+    "name": "آذان البقاع"
+  },
+  {
+    "id": "adhan_13",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A2%D8%B0%D8%A7%D9%86%20%D9%A1.mp3",
+    "name": "آذان ١"
+  },
+  {
+    "id": "adhan_14",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A3%D8%A8%D8%A7%D8%B0%D8%B1%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D8%A7%D8%AC%D9%8A-2.mp3",
+    "name": "أباذر الحلواجي-2"
+  },
+  {
+    "id": "adhan_15",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A3%D8%A8%D8%A7%D8%B0%D8%B1%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D8%A7%D8%AC%D9%8A.mp3",
+    "name": "أباذر الحلواجي"
+  },
+  {
+    "id": "adhan_16",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A3%D8%A8%D9%88%20%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AA%D9%85%20%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A.mp3",
+    "name": "أبو الحواتم الطائي"
+  },
+  {
+    "id": "adhan_17",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%BA.mp3",
+    "name": "أحمد الدباغ"
+  },
+  {
+    "id": "adhan_18",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%86%D8%B5%D9%8A%D8%B1%D8%A7%D9%88%D9%8A.mp3",
+    "name": "أحمد النصيراوي"
+  },
+  {
+    "id": "adhan_19",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B9%D9%84%D9%8A%20%D8%A2%D9%84%20%D8%B9%D8%B5%D9%8A%D8%B5.mp3",
+    "name": "أحمد علي آل عصيص"
+  },
+  {
+    "id": "adhan_20",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%A8%D8%A7%D8%B0%D8%B1%20%D8%A7%D9%84%D8%AD%D9%84%D9%88%D8%A7%D8%AC%D9%8A.m4a",
+    "name": "اباذر الحلواجي"
+  },
+  {
+    "id": "adhan_21",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%A8%D9%88%20%D9%85%D9%87%D9%86%D8%AF%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D9%8A.mp3",
+    "name": "ابو مهند الدراجي"
+  },
+  {
+    "id": "adhan_22",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%AC%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AC%D8%A7%D8%A8%D8%B1%D9%8A.m4a",
+    "name": "اجاسم الجابري"
+  },
+  {
+    "id": "adhan_23",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%84%D8%B6%D8%A7%D8%AD%D9%8A%D8%A9.mp3",
+    "name": "اذان الضاحية"
+  },
+  {
+    "id": "adhan_24",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%B0%D8%A7%D9%86%20%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AD%D8%AC%D8%A9%20%28%D8%B9%D8%AC%29.mp3",
+    "name": "اذان انتظار الحجة (عج)"
+  },
+  {
+    "id": "adhan_25",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%B0%D8%A7%D9%86%20%D8%B4%D9%8A%D8%B9%D9%8A%20%20%20%D9%85%D9%82%D8%A7%D9%85%20%D9%86%D9%87%D8%A7%D9%88%D9%86%D8%AF.m4a",
+    "name": "اذان شيعي   مقام نهاوند"
+  },
+  {
+    "id": "adhan_26",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%B0%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D9%85%20%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%20%D8%B9.mp3",
+    "name": "اذان مقام الامام علي ع"
+  },
+  {
+    "id": "adhan_27",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%B0%D8%A7%D9%86_%D8%A7%D9%84%D8%B9%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D8%A9.m4a",
+    "name": "اذان_العتبة_العلوية_المقدسة"
+  },
+  {
+    "id": "adhan_28",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D9%8A.mp3",
+    "name": "اسماعيل الجزيري"
+  },
+  {
+    "id": "adhan_29",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%A3%D8%B0%D8%A7%D9%86_%D9%85%D9%86_%D8%A7%D9%84%D8%B9%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D8%B1%D8%A6_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%B4%D8%A8%D8%B1_%D9%85%D8%B9%D9%84%D9%87.m4a",
+    "name": "الأذان_من_العتبة_العلوية_المقدسة_القارئ_الشيخ_شبر_معله"
+  },
+  {
+    "id": "adhan_30",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%20%D8%A3%D8%B3%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A6%D9%8A.m4a",
+    "name": "الحاج أسامة الكربلائي"
+  },
+  {
+    "id": "adhan_31",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%20%D8%A8%D9%88%D8%B9%D8%A8%D8%A7%D8%B3.mp3",
+    "name": "الحاج بوعباس"
+  },
+  {
+    "id": "adhan_32",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87.mp3",
+    "name": "الحاج عبد الله"
+  },
+  {
+    "id": "adhan_33",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D8%A4%D8%B0%D9%86.mp3",
+    "name": "الحاج محمد المؤذن"
+  },
+  {
+    "id": "adhan_34",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D9%81.mp3",
+    "name": "الحاج مصطفى الصراف"
+  },
+  {
+    "id": "adhan_35",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%84%D9%8A.mp3",
+    "name": "السيد حسين الموالي"
+  },
+  {
+    "id": "adhan_36",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D8%B9%D9%84%D9%88%D9%8A%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D9%8A%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B2%D9%8A.mp3",
+    "name": "السيد علوي الموسوي الدرازي"
+  },
+  {
+    "id": "adhan_37",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%B5%D8%AF%D8%B1.mp3",
+    "name": "السيد علي الصدر"
+  },
+  {
+    "id": "adhan_38",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%8A%D8%B3%D9%89%20%D8%A8%D9%84%D9%88%D8%B7.mp3",
+    "name": "السيد محمد عيسى بلوط"
+  },
+  {
+    "id": "adhan_39",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D9%87%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D9%8A.m4a",
+    "name": "السيد هاني الموسوي"
+  },
+  {
+    "id": "adhan_40",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D9%87%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%88%D9%8A.mp3",
+    "name": "السيد هاني الموسوي"
+  },
+  {
+    "id": "adhan_41",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D9%8A%D8%AD%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A.mp3",
+    "name": "السيد يحي محمدالحوثي"
+  },
+  {
+    "id": "adhan_42",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%86%D8%AC%D9%81%D9%8A.mp3",
+    "name": "الشيخ أحمد النجفي"
+  },
+  {
+    "id": "adhan_43",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%20%D8%A7%D9%84%D9%85%D9%86%D8%AF%D9%84%D8%A7%D9%88%D9%8A.mp3",
+    "name": "الشيخ اسماعيل المندلاوي"
+  },
+  {
+    "id": "adhan_44",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%88%D8%B7%D9%8A.mp3",
+    "name": "الشيخ الطاروطي"
+  },
+  {
+    "id": "adhan_45",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%AD%D8%A7%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D9%86%D9%8A.mp3",
+    "name": "الشيخ حامد الحساني"
+  },
+  {
+    "id": "adhan_46",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B1%D8%A7%D9%81%D8%B9%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%B1%D9%8A.mp3",
+    "name": "الشيخ رافع العامري"
+  },
+  {
+    "id": "adhan_47",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B2%D8%A7%D8%AF%D9%87%20%D8%A7%D8%B1%D8%AF%D8%A8%D9%8A%D9%84%D9%8A.mp3",
+    "name": "الشيخ زاده اردبيلي"
+  },
+  {
+    "id": "adhan_48",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B7%D9%87%20%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF.mp3",
+    "name": "الشيخ طه العباد"
+  },
+  {
+    "id": "adhan_49",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D9%8A%D8%AB%D9%85%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1-2.mp3",
+    "name": "الشيخ ميثم التمار-2"
+  },
+  {
+    "id": "adhan_50",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D9%8A%D8%AB%D9%85%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1-3.mp3",
+    "name": "الشيخ ميثم التمار-3"
+  },
+  {
+    "id": "adhan_51",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D9%8A%D8%AB%D9%85%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1.mp3",
+    "name": "الشيخ ميثم التمار"
+  },
+  {
+    "id": "adhan_52",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%AF.%D9%85%D9%86%D8%B5%D9%88%D8%B1.m4a",
+    "name": "المنشد.منصور"
+  },
+  {
+    "id": "adhan_53",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A8%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D9%8A.mp3",
+    "name": "باسم الدراجي"
+  },
+  {
+    "id": "adhan_54",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%A8%D9%84%D8%A7%D8%B3%D9%85%20%D8%AC%D9%84%D9%8A%D9%84.mp3",
+    "name": "بلاسم جليل"
+  },
+  {
+    "id": "adhan_55",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AC%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A6%D9%8A-2.mp3",
+    "name": "جليل الكربلائي-2"
+  },
+  {
+    "id": "adhan_56",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AC%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%84%D8%A7%D8%A6%D9%8A.mp3",
+    "name": "جليل الكربلائي"
+  },
+  {
+    "id": "adhan_57",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%A7%D8%AC%20%D8%A2%D9%82%D8%A7%D8%A6%D9%8A.mp3",
+    "name": "حاج آقائي"
+  },
+  {
+    "id": "adhan_58",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%A7%D8%AC%20%D9%83%D8%A7%D8%B8%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87.mp3",
+    "name": "حاج كاظم زاده"
+  },
+  {
+    "id": "adhan_59",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%A7%D8%AC%20%D9%85%D9%8A%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AA.mp3",
+    "name": "حاج ميردامات"
+  },
+  {
+    "id": "adhan_60",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%86%20%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A%D8%A7%D9%86.mp3",
+    "name": "حسن رضائيان"
+  },
+  {
+    "id": "adhan_61",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%86%20%D9%8A%D9%82%D8%B7%D9%8A%D9%86.mp3",
+    "name": "حسن يقطين"
+  },
+  {
+    "id": "adhan_62",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D8%A7%D9%86.mp3",
+    "name": "حسين العريان"
+  },
+  {
+    "id": "adhan_63",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A8%D9%88%D8%B5%D8%A8%D9%8A%D8%AD.mp3",
+    "name": "حسين بوصبيح"
+  },
+  {
+    "id": "adhan_64",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B5%D8%A8%D8%AD%D8%AF%D9%84.mp3",
+    "name": "حسين صبحدل"
+  },
+  {
+    "id": "adhan_65",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%B4%D8%B1%D9%8A%D9%81.mp3",
+    "name": "حسين علي شريف"
+  },
+  {
+    "id": "adhan_66",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AD%D8%B3%D9%8A%D9%86%20%D9%87%D8%B2%D9%8A%D9%85.mp3",
+    "name": "حسين هزيم"
+  },
+  {
+    "id": "adhan_67",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%AF%D8%A7%D9%88%D8%AF%20%D8%B3%D9%84%D9%85%D8%A7%D9%86.mp3",
+    "name": "داود سلمان"
+  },
+  {
+    "id": "adhan_68",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B1%D8%A7%D8%BA%D8%A8%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%BA%D9%84%D9%88%D8%B4-2.mp3",
+    "name": "راغب مصطفى غلوش-2"
+  },
+  {
+    "id": "adhan_69",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B1%D8%A7%D8%BA%D8%A8%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%BA%D9%84%D9%88%D8%B4.mp3",
+    "name": "راغب مصطفى غلوش"
+  },
+  {
+    "id": "adhan_70",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B1%D8%B6%D8%A7%DB%8C%DB%8C%D8%A7%D9%86.mp3",
+    "name": "رضاییان"
+  },
+  {
+    "id": "adhan_71",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A%20%D9%86%D8%A7%D8%AF.mp3",
+    "name": "روحاني ناد"
+  },
+  {
+    "id": "adhan_72",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%AA%D9%88%D8%AC%D9%8A%D9%89.mp3",
+    "name": "ستوجيى"
+  },
+  {
+    "id": "adhan_73",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B4%D9%85%D9%84%D9%88%D9%87.mp3",
+    "name": "سعيد شملوه"
+  },
+  {
+    "id": "adhan_74",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-10.mp3",
+    "name": "سعيد طوسي-10"
+  },
+  {
+    "id": "adhan_75",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-2.mp3",
+    "name": "سعيد طوسي-2"
+  },
+  {
+    "id": "adhan_76",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-3.mp3",
+    "name": "سعيد طوسي-3"
+  },
+  {
+    "id": "adhan_77",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-4.mp3",
+    "name": "سعيد طوسي-4"
+  },
+  {
+    "id": "adhan_78",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-5.mp3",
+    "name": "سعيد طوسي-5"
+  },
+  {
+    "id": "adhan_79",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-7.mp3",
+    "name": "سعيد طوسي-7"
+  },
+  {
+    "id": "adhan_80",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-8.mp3",
+    "name": "سعيد طوسي-8"
+  },
+  {
+    "id": "adhan_81",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%B7%D9%88%D8%B3%D9%8A-9.mp3",
+    "name": "سعيد طوسي-9"
+  },
+  {
+    "id": "adhan_82",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B3%D9%8A%D9%81.mp3",
+    "name": "سيف"
+  },
+  {
+    "id": "adhan_83",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B4%D8%AD%D8%A7%D8%AA%20%D8%A7%D9%86%D9%88%D8%B1.mp3",
+    "name": "شحات انور"
+  },
+  {
+    "id": "adhan_84",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B5%D8%A8%D8%AD%20%D8%AF%D9%84.mp3",
+    "name": "صبح دل"
+  },
+  {
+    "id": "adhan_85",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D8%A7%D8%AF%D9%84%20%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A.mp3",
+    "name": "عادل الربيعي"
+  },
+  {
+    "id": "adhan_86",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D8%A7%D9%85%D8%B1%20%D8%A7%D9%84%D9%83%D8%A7%D8%B8%D9%85%D9%8A.mp3",
+    "name": "عامر الكاظمي"
+  },
+  {
+    "id": "adhan_87",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%81%D8%B1%D9%8A%D8%AF.mp3",
+    "name": "عباس فريد"
+  },
+  {
+    "id": "adhan_88",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B3%D8%AA%D8%B1%D8%A7%D9%88%D9%8A.mp3",
+    "name": "عبدالأمير الستراوي"
+  },
+  {
+    "id": "adhan_89",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D9%82.mp3",
+    "name": "عبدالله الصادق"
+  },
+  {
+    "id": "adhan_90",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D9%81%D8%B1%D8%AC.mp3",
+    "name": "عبدالله فرج"
+  },
+  {
+    "id": "adhan_91",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D9%84%D9%89%20%D9%81%D8%A7%D9%86%D9%89.mp3",
+    "name": "على فانى"
+  },
+  {
+    "id": "adhan_92",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8.m4a",
+    "name": "علي الحبيب"
+  },
+  {
+    "id": "adhan_93",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1.mp3",
+    "name": "علي الناصر"
+  },
+  {
+    "id": "adhan_94",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D9%84%D9%8A%20%D8%B9%D9%84%D9%8A%D8%B2%D8%A7%D8%AF%D9%87.mp3",
+    "name": "علي عليزاده"
+  },
+  {
+    "id": "adhan_95",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D8%B9%D9%85%D8%A7%D8%B1%20%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%AD%D9%8A.mp3",
+    "name": "عمار حسين السريحي"
+  },
+  {
+    "id": "adhan_96",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D9%86%D8%AC%D9%81%D9%8A-2.mp3",
+    "name": "فريد النجفي-2"
+  },
+  {
+    "id": "adhan_97",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%81%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D9%86%D8%AC%D9%81%D9%8A.mp3",
+    "name": "فريد النجفي"
+  },
+  {
+    "id": "adhan_98",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%82%D8%A7%D8%B3%D9%85%20%D8%A3%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85%DB%8C.mp3",
+    "name": "قاسم أبراهیمی"
+  },
+  {
+    "id": "adhan_99",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%82%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%AC%D8%A8%D9%88%D8%B1%D9%8A.mp3",
+    "name": "قاسم الجبوري"
+  },
+  {
+    "id": "adhan_100",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%83%D8%B1%D9%8A%D9%85%20%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A.mp3",
+    "name": "كريم منصوري"
+  },
+  {
+    "id": "adhan_101",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%A4%D8%B0%D9%86%20%D8%B2%D8%A7%D8%AF%D9%87.mp3",
+    "name": "مؤذن زاده"
+  },
+  {
+    "id": "adhan_102",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AA%D9%88%D8%AE%D9%89.mp3",
+    "name": "محمد التوخى"
+  },
+  {
+    "id": "adhan_103",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%AD%D9%85%D8%AF%20%D8%AC%D8%B9%D9%81%D8%B1%20%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B1.mp3",
+    "name": "محمد جعفر النجار"
+  },
+  {
+    "id": "adhan_104",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%AD%D9%85%D8%AF%20%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A7%D8%A8%D9%88%20%D8%B1%D9%8A%D9%87.mp3",
+    "name": "محمد حسين ابو ريه"
+  },
+  {
+    "id": "adhan_105",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D9%86%D9%88%D8%B2.m4a",
+    "name": "محمد عنوز"
+  },
+  {
+    "id": "adhan_106",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%AD%D9%85%D8%AF%20%D8%BA%D9%81%D8%A7%D8%B1%D9%8A.mp3",
+    "name": "محمد غفاري"
+  },
+  {
+    "id": "adhan_107",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B5%D8%A7%D9%84%D8%AD%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A.mp3",
+    "name": "محمود صالح العاملي"
+  },
+  {
+    "id": "adhan_108",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%B1%D8%AA%D8%B6%D9%89%20%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A.m4a",
+    "name": "مرتضى العميري"
+  },
+  {
+    "id": "adhan_109",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D9%81.m4a",
+    "name": "مصطفى الصراف"
+  },
+  {
+    "id": "adhan_110",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D9%84%D8%A7%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D8%B2%D9%8A.mp3",
+    "name": "ملا أحمد الكريزي"
+  },
+  {
+    "id": "adhan_111",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D9%84%D8%A7%20%D8%A5%D9%84%D9%8A%D8%A7%D8%B3%20%D8%A7%D9%84%D9%85%D8%B1%D8%B2%D9%88%D9%82.mp3",
+    "name": "ملا إلياس المرزوق"
+  },
+  {
+    "id": "adhan_112",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D9%87%D8%AF%D9%89%20%D8%B5%D8%AF%D9%82%D9%89-2.mp3",
+    "name": "مهدى صدقى-2"
+  },
+  {
+    "id": "adhan_113",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D9%87%D8%AF%D9%89%20%D8%B5%D8%AF%D9%82%D9%89.mp3",
+    "name": "مهدى صدقى"
+  },
+  {
+    "id": "adhan_114",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%85%D9%87%D8%AF%DB%8C%20%DB%8C%D8%B1%D8%A7%D8%AD%DB%8C.mp3",
+    "name": "مهدی یراحی"
+  },
+  {
+    "id": "adhan_115",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%86%D8%A8%D9%8A%D9%84%20%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A.mp3",
+    "name": "نبيل البصري"
+  },
+  {
+    "id": "adhan_116",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%86%D8%B2%D8%A7%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-2.mp3",
+    "name": "نزار القطري-2"
+  },
+  {
+    "id": "adhan_117",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%86%D8%B2%D8%A7%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A-3.mp3",
+    "name": "نزار القطري-3"
+  },
+  {
+    "id": "adhan_118",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%86%D8%B2%D8%A7%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A.m4a",
+    "name": "نزار القطري"
+  },
+  {
+    "id": "adhan_119",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%86%D8%B2%D8%A7%D8%B1%20%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D9%8A.mp3",
+    "name": "نزار القطري"
+  },
+  {
+    "id": "adhan_120",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%87%D8%A7%D8%AF%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%AC%D9%88%D8%A7%D8%AF%20%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86.mp3",
+    "name": "هادي محمد جواد شمس الدين"
+  },
+  {
+    "id": "adhan_121",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%8A%D8%A7%D8%B3%D9%8A%D9%86%20%D8%A7%D9%84%D9%88%D8%A7%D8%A6%D9%84%D9%8A.mp3",
+    "name": "ياسين الوائلي"
+  },
+  {
+    "id": "adhan_122",
+    "audio_url": "https://raw.githubusercontent.com/WWGTX/athan/main/%D9%8A%D9%88%D8%B3%D9%81%20%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%B2%D8%A7%D9%8A%D8%B1%20%D8%B9%D9%84%D9%8A.mp3",
+    "name": "يوسف سلمان زاير علي"
+  }
+]
